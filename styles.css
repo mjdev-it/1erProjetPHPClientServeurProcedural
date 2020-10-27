@@ -1,0 +1,45 @@
+.thead-class{
+    background-color: cadetblue;
+}
+
+.table-class td{
+    border: 2px solid blue;
+    text-align: center;
+}
+.table-class th{
+    border: 2px solid blue;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    padding-left: 10em;
+    padding-right: 10em;
+}
+
+.p-mj-ok{
+    background-color: #0000ff;
+    color : #ffffff;
+}
+
+.p-mj-hs{
+    background-color: #f80000;
+    color : #ffffff;
+}
+
+.p-mj-hs2{
+    background-color: #FFA420;
+    /* autres couleurs de orange #FF9A00
+    Orange(255, 153, 0)#FF9900 #FF6900
+    Orangé rouge #F75E25
+    Orangé saumon #EB6A0E
+    Orangé saumon #E76F00
+    Orangé saumon #E96B10
+    Orange #FF6600*/
+    color : #ffffff;
+}
